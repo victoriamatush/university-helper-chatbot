@@ -1,0 +1,9 @@
+# Ignore .env file
+.env
+
+# Python-related
+__pycache__/
+*.py[cod]
+.DS_Store
+venv/
+*.sqlite3
